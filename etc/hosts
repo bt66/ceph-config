@@ -1,0 +1,16 @@
+127.0.0.1 localhost
+
+100.200.23.227 node-1
+100.200.23.57 node-2
+100.200.23.216 node-3
+100.200.23.147 node-4
+100.200.23.200 node-5
+100.200.23.218 node-6
+
+# The following lines are desirable for IPv6 capable hosts
+::1 ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
