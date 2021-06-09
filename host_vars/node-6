@@ -1,0 +1,8 @@
+rgw_realm: jw
+rgw_zonegroup: jkt
+rgw_zone: ind
+
+rgw_zonemaster: true
+rgw_zonesecondary: false
+system_access_key: 2wsx1qaz
+system_secret_key: 2wsx1qaz
